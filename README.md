@@ -1,5 +1,5 @@
 
-![entity_relationship_diagram](https://github.com/wanderfarther/sql-challenge/assets/132155105/58f7ae90-e02f-41e5-8455-8251f7876208)
+![surfer pic](https://github.com/Lanceowesalot/sqlalchemy_challenge/blob/main/SurfsUp/Images/Male%20Surfer.jpg)
 
 # **Flask API & Climate Data Analysis**
 This project provides an API to access historical climate data from a SQLite database. The Flask application allows users to query precipitation data, temperature observations, and summary statistics based on user-defined date ranges.
@@ -7,6 +7,7 @@ This project provides an API to access historical climate data from a SQLite dat
 ---
 
 ## **📌 Table of Contents**
+
 1. [Project Overview](#project-overview)
 2. [Dataset & Database](#dataset--database)
 3. [Flask API Endpoints](#flask-api-endpoints)
